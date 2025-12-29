@@ -11,5 +11,5 @@ The main objective of this study is to develop a web-based application mainly to
 ## Contributors’ GitHub Profile Links:
 
 - [@alyssanew](https://github.com/alyssanew)
-- [@jeysiiiiiii] (add-your-link)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
